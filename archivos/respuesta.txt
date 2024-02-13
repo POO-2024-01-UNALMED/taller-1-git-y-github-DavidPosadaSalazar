@@ -1,0 +1,1 @@
+Como Git no toma en consideración los documentos o carpetas vacías, no se le podía realizar el commit, asi que tuve que colocar esta respuesta para poder hacerlo y luego enviarlo a Github (push).
