@@ -1,0 +1,1 @@
+Se puede realizar un commit debido a que la carpeta archivos no esta vacia, ya tiene el documento "respuesta" el cual hace que se tome en consideracion.
